@@ -1,13 +1,21 @@
-let FullName = "Balogun Ayobami";
-let id = "HNG-05997";
-let lang = "JavaScript";
-let Email = " mickgared9@mail.com";
+var text1 = "Hello World, this is ";
+var fullName = "Balogun Ayobami ";
+var text2 = "with HNGi7 ID ";
+var id = "HNG-05997 ";
+var text3 = "using ";
+var language = "Javascript ";
+var text4 = "for stage 2 task. ";
+var email = "mickgared9@gmail.com";
+console.log(text1 + fullName + text2 + id + text3 + language + text4 + email);
 
-function Return() {
 
-      output = console.log(`Hello World, this is ${FullName} with ${id}, and I am using ${lang} for stage 2 task.${Email}`);
 
-      return output;
-}
-Return();
+
+
+
+
+
+
+
+
 	
